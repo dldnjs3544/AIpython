@@ -1,3 +1,3 @@
 # AIpython
 ##연습해보아요
-기어
+print(기어)
